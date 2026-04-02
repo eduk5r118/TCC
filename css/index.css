@@ -1,0 +1,22 @@
+body{
+    background: rgb(62, 115, 188);
+    text-align: center;
+    color: white;
+    font-style: normal, Arial, 15pt;
+}
+header#cabecalho{
+    /*-*/
+}
+section#secao{
+    background: white;
+    padding: 10px;
+    color: black;
+    width: 500px;
+    margin: auto;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 8px 8px 10px 1px rgba(0, 0, 0, 0.708);
+}
+footer#rodape{
+    font-style: italic;
+}
